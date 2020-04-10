@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\bin\Debug\netcoreapp2.2\MultiClientsServices.BusinessLayer.deps.json
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\bin\Debug\netcoreapp2.2\MultiClientsServices.BusinessLayer.dll
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\bin\Debug\netcoreapp2.2\MultiClientsServices.BusinessLayer.pdb
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\bin\Debug\netcoreapp2.2\MultiClientsServices.DataLayer.dll
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\bin\Debug\netcoreapp2.2\MultiClientsServices.Entities.dll
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\bin\Debug\netcoreapp2.2\MultiClientsServices.DataLayer.pdb
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\bin\Debug\netcoreapp2.2\MultiClientsServices.Entities.pdb
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\obj\Debug\netcoreapp2.2\MultiClientsServices.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\obj\Debug\netcoreapp2.2\MultiClientsServices.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\obj\Debug\netcoreapp2.2\MultiClientsServices.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\obj\Debug\netcoreapp2.2\MultiClientsServices.BusinessLayer.AssemblyInfo.cs
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\obj\Debug\netcoreapp2.2\MultiClientsServices.BusinessLayer.csproj.CopyComplete
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\obj\Debug\netcoreapp2.2\MultiClientsServices.BusinessLayer.dll
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.BusinessLayer\obj\Debug\netcoreapp2.2\MultiClientsServices.BusinessLayer.pdb

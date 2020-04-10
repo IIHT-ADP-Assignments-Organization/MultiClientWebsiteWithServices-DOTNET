@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.Entities\bin\Debug\netcoreapp2.2\MultiClientsServices.Entities.deps.json
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.Entities\bin\Debug\netcoreapp2.2\MultiClientsServices.Entities.dll
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.Entities\bin\Debug\netcoreapp2.2\MultiClientsServices.Entities.pdb
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.Entities\obj\Debug\netcoreapp2.2\MultiClientsServices.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.Entities\obj\Debug\netcoreapp2.2\MultiClientsServices.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.Entities\obj\Debug\netcoreapp2.2\MultiClientsServices.Entities.AssemblyInfo.cs
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.Entities\obj\Debug\netcoreapp2.2\MultiClientsServices.Entities.dll
+C:\Users\hp\source\repos\MultiClientWebsiteWithServices\MultiClientsServices.Entities\obj\Debug\netcoreapp2.2\MultiClientsServices.Entities.pdb
+C:\Users\hp\Desktop\Multi-client websiteWithServices\MultiClientWebsiteWithServices\MultiClientsServices.Entities\bin\Debug\netcoreapp2.2\MultiClientsServices.Entities.deps.json
+C:\Users\hp\Desktop\Multi-client websiteWithServices\MultiClientWebsiteWithServices\MultiClientsServices.Entities\bin\Debug\netcoreapp2.2\MultiClientsServices.Entities.dll
+C:\Users\hp\Desktop\Multi-client websiteWithServices\MultiClientWebsiteWithServices\MultiClientsServices.Entities\bin\Debug\netcoreapp2.2\MultiClientsServices.Entities.pdb
+C:\Users\hp\Desktop\Multi-client websiteWithServices\MultiClientWebsiteWithServices\MultiClientsServices.Entities\obj\Debug\netcoreapp2.2\MultiClientsServices.Entities.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Multi-client websiteWithServices\MultiClientWebsiteWithServices\MultiClientsServices.Entities\obj\Debug\netcoreapp2.2\MultiClientsServices.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Multi-client websiteWithServices\MultiClientWebsiteWithServices\MultiClientsServices.Entities\obj\Debug\netcoreapp2.2\MultiClientsServices.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Multi-client websiteWithServices\MultiClientWebsiteWithServices\MultiClientsServices.Entities\obj\Debug\netcoreapp2.2\MultiClientsServices.Entities.AssemblyInfo.cs
+C:\Users\hp\Desktop\Multi-client websiteWithServices\MultiClientWebsiteWithServices\MultiClientsServices.Entities\obj\Debug\netcoreapp2.2\MultiClientsServices.Entities.dll
+C:\Users\hp\Desktop\Multi-client websiteWithServices\MultiClientWebsiteWithServices\MultiClientsServices.Entities\obj\Debug\netcoreapp2.2\MultiClientsServices.Entities.pdb
